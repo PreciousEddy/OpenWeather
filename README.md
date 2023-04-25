@@ -7,3 +7,5 @@
     -  Temperature and Weather Description
 
 ## Image:
+ 
+ ![](Images/Weather.png)
